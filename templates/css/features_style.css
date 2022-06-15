@@ -1,0 +1,18 @@
+div.row {
+    background-color: #fff;
+    padding: 20px;
+    margin: 35px 75px;
+    box-shadow: 5px 10px #888888;
+} div.column {
+    width: auto;
+} div.column p {
+    background-color: #25995b;
+    color: #fff;
+    padding: 0px;
+    margin: 0px 0px;
+} img.about {
+    padding: 3px 30px;
+    margin: 0 auto;
+    height: 100%;
+    width: 92.5%;
+}
