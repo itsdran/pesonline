@@ -1,1 +1,1 @@
-<a href="dashboard.php"><img src="https://media.discordapp.net/attachments/943529083223019564/979431394944102420/unknown.png" id="logo"/></a>
+<a href="dashboard.php"><img src="https://media.discordapp.net/attachments/986686544775614474/986689356246945822/PESOnline_logo_with_name.png?width=1025&height=394" id="logo"/></a>

@@ -36,6 +36,6 @@
                 </center>
             </form>
         </div>
-        <img src="https://media.discordapp.net/attachments/982592711322386462/984790045443637309/bg.png" style="float:right; width: 45%;">
+        <img src="https://media.discordapp.net/attachments/986686544775614474/986690224094609588/PESOnline_logo_with_name.png?width=590&height=499" style="float:right; width: 45%;">
 </body>
 </html>

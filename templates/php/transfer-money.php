@@ -1,6 +1,6 @@
 <?php 
 
-    $db = mysqli_connect ("localhost", "root", "", "unitybank");
+    $db = mysqli_connect ("localhost", "root", "", "pesonline");
 
     if (isset ($_POST['transfer-money'])) {
         $userID             = $_SESSION ['userID'];

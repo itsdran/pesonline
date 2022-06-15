@@ -4,11 +4,11 @@
 <head>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="templates/css/index_style.css">
-    <title>UnityBank (Baby M)</title>
+    <title>PESOnline Banking</title>
 </head>
 <body>
         <?php include("templates/php/logo.php");?>
-        <img src="https://media.discordapp.net/attachments/982592711322386462/984790045443637309/bg.png" style="float:right; width: 45%;">
+        <img src="https://media.discordapp.net/attachments/986686544775614474/986690224094609588/PESOnline_logo_with_name.png?width=590&height=499" style="float:right; width: 45%;">
         <div id="login">
             <br><br><br>
             <form method="POST" action="templates/php/functions.php" class="login">

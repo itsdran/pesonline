@@ -30,17 +30,10 @@
             <div class="col1">
                 <div class="section">MISSION</div>
                 <p>
-                    UnityBank's purpose is to contribute to the
-                    Philippines' long-term development by offering
-                    responsible financial services and solutions to
-                    consumers and micro, small, and medium-sized
-                    businesses while employing globally known best
-                    banking standards. We are dedicated to providing
-                    value to our clients, shareholders, workers, and
-                    society as a whole. Our principles underpin our
-                    mission: integrity and transparency, competence,
-                    client devotion, partnership, and social and
-                    environmental responsibility.
+                PESOnline is an application that provides access to individuals especially the ones who want to manage their bills and track their financial records. 
+                In addition to this, it also offers easy access and secured pieces of information displayed on the pages. 
+                As people became busier, handling financial records online would definitely fit our daily routine since technology progresses every second in the world. 
+                And lastly, the most important thing is this application help humans to adapt to the changes that we live in.
                 </p>
                 <div class="section">MOTTO</div>
                 <p>
@@ -66,8 +59,8 @@
                             <p>Contact Information:</p>
                                 <font style="font-size: 20px;">
                                 &nbsp;&nbsp;&nbsp;Contact No.: 09164514853<br>
-                                &nbsp;&nbsp;&nbsp;Email/Google: unitybank@gmail.com<br>
-                                &nbsp;&nbsp;&nbsp;Facebook: Unity Bank Co.</font>
+                                &nbsp;&nbsp;&nbsp;Email/Google: pesonline@gmail.com<br>
+                                &nbsp;&nbsp;&nbsp;Facebook: PESOnline Co.</font>
                         </div>
                     </div>
                 </div>

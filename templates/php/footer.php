@@ -14,7 +14,7 @@
 ?>
     <div class="footer">
         <div class="cols">
-            <b>© <?php echo date('Y');?> Unitybank of the Philippines</b>
+            <b>© <?php echo date('Y');?> PESOnline <br>Banking of the Philippines</b>
         </div>
         <div class="cols">
             <a href="dashboard.php" class="footerlink">Home</a><br>
