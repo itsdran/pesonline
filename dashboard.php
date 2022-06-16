@@ -38,11 +38,16 @@
         ?>
             <b><?php echo $row['fName'] . ' ' . $row['lName'];?></b><br>
             Check Savings ePayment<br>
+            Your Queuing Number is 150<br>
+            
+            
           </div>
 
           <div class="balance">
             <h5>Available Balance</h5>
             <b>PHP <?php echo $format?></b><br>
+            
+            
           </div>
       </div>
       <div class="column">
